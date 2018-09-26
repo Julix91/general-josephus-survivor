@@ -5,7 +5,7 @@ The josephusSurvivor function takes in n the number of soldiers and k, the dista
 
 The josephusSurvivorVerbose function console logs the thinking process.
 
-For example calling ```javascript josephusSurvivorVerbouse(7,3)``` would return ```javascript 4``` and also the following console logs
+For example calling ```josephusSurvivorVerbouse(7,3)``` would return ```4``` and also the following console logs
 
 ```
 In round 1 d starts as 1 because Math shown in the video above...
