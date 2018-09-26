@@ -17,4 +17,5 @@ In round 6 d starts as 12 because 3 * 8 / 2 is 12 (which we Math.ceil)
 In round 7 d starts as 18 because 3 * 12 / 2 is 18 (which we Math.ceil)
 Since 18 is greater than or equal to 14 that ends the loop.
 Time to return k * n + 1 - d, which is 3 * 7 + 1 - 18 or 4.
-*/```
+*/
+```
